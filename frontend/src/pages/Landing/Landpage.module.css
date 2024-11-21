@@ -1,0 +1,16 @@
+/*Landpage.module.css*/
+
+.titleFormat{
+    text-align: center;
+}
+
+.imageStyle{
+    width: 400px;
+    height: auto;
+    margin-right: 50px;
+}
+
+.imageTextFormat{
+    display: flex;
+    margin-top: 100px;
+}

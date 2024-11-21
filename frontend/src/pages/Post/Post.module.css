@@ -1,0 +1,14 @@
+
+.name {
+  font-family:
+    Greycliff CF,
+    var(--mantine-font-family);
+}
+
+.container{
+  width: 800px;
+}
+
+.categoryName{
+  font-weight: bold;
+}
